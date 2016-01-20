@@ -1,13 +1,13 @@
 ## Linux Server Configuration
 
-###i
+###i)
 ####IP address: 52.33.118.142
 ####SSH port: 2200
 
-###ii
+###ii)
 ####URL: http://52.33.118.142/
 
-###iii
+###iii)
 ####Software installed and configuration changes made:
 *Created new users
 *Changed local time to UTC  
@@ -24,7 +24,7 @@
 *Created psql user "catalog", configured permissions to create db only
 
 
-###iv
+###iv)
 ####List of third-party resources:
 https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server  
 https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps 
