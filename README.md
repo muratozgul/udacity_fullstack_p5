@@ -9,19 +9,19 @@
 
 ###iii)
 ####Software installed and configuration changes made:
-*Created new users
-*Changed local time to UTC  
+* Created new users
+* Changed local time to UTC  
 `sudo dpkg-reconfigure tzdata`
-*Removed root login
-*Added created users to sudoers
-*Updated/upgraded packages
-*Configured firewall (ufw)
-*Removed password ssh, only key based ssh
-*Installed apache + mod_wsgi, sqlite3, postgres, python, flask, git
-*First tested app with sqlite than migrated to postgres
-*Updated relative paths to absolute paths in python files
-*Changed sqlite db paths to postgres server in python files
-*Created psql user "catalog", configured permissions to create db only
+* Removed root login
+* Added created users to sudoers
+* Updated/upgraded packages
+* Configured firewall (ufw)
+* Removed password ssh, only key based ssh
+* Installed apache + mod_wsgi, sqlite3, postgres, python, flask, git
+* First tested app with sqlite than migrated to postgres
+* Updated relative paths to absolute paths in python files
+* Changed sqlite db paths to postgres server in python files
+* Created psql user "catalog", configured permissions to create db only
 
 
 ###iv)
